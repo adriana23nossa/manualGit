@@ -1,0 +1,3 @@
+Tipo de identificacion: Cedula de ciudadania 
+n°: 1010131056
+edad: 26 años
