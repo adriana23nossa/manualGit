@@ -1,3 +1,3 @@
-Tipo de identificacion: Tarjeta de identidad
-n°: 1010131010
-edad: 17 años
+Tipo de identificacion: Cedula de ciudadania 
+n°: 33445963
+edad: 48 años
